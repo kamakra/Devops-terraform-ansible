@@ -1,7 +1,7 @@
 ```
 -- fork the github repository :
     
-    https://github.com/ramannkhanna2/Devops-terraform-ansible.git
+    https://github.com/kamakra/Devops-terraform-ansible.git
     
 
 --- gittbash download
@@ -9,7 +9,7 @@
  
  ---- clone the github repo :
      
-git clone https://github.com/ramannkhanna2/Devops-terraform-ansible.git
+git clone https://github.com/kamakra/Devops-terraform-ansible.git
   510  ls
   511  clear
   512  cd Devops-terraform-ansible/
